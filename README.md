@@ -1,2 +1,2 @@
 # PTBPABD
-My PABD academic studies
+My PABD academical studies
